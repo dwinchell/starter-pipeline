@@ -1,4 +1,4 @@
 # Helm Charts for a Starter Pipeline
 ```
-helm install mypipeline .
+helm upgrade --install mypipeline .
 ```
