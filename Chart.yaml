@@ -10,5 +10,7 @@ maintainers:
 dependencies:
   - name: ploigos-workflow-tekton-resources
     version: ">= 0.0.0 || >= 0.0.0-0"
+  - name: ploigos-workflow-tekton-cluster-resources
+    version: ">= 0.0.0 || >= 0.0.0-0"
 # MANAGED BY: GitHub workflow
 version: 0.22.1-edge.1
